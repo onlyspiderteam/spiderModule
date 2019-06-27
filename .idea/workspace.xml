@@ -2,63 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5674b39-b157-4ace-94fe-f8c7d52ea242" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/0254a6fb5aa317a9599347048ed9beee.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/0d935c0d81a0f4eb1353aeb3894e965d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/11767b26434adb01a43301455b836d7f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/16c80cab1c5a41979ad23d3087b78dff.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/173d131f7186a40f301604d6624ea5db.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/1e09cd7fb4811612f1574b8ccb118359.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/1e93ee18eb8f195ff0824d201495fef4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/20a1f62434badd61aac3a873efc758b0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/21d60ffe662aced917cbd2943950eef7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/249f914147060329a1fa0c7616b04366.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/2c10de4cda2cff7b6b3cace875fe3a99.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/36a287767084d558c616b364020c7bba.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/3e6cd3332d3f484ff97aba59142cc143.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/3ebf4fb13345907180c5ad1f38454f36.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/3ec70ee09e23213721c001f9005f6606.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/3ee3141d40d78bae46482c8e33e92bd3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/495735d1a4ef7518164c50f6d2994e93.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/516428b40b37b83cd21e7a509387bda2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/5bd91c1cd14b88019cd6740e9cc5b49a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/5cae3b637cf0a383787c6b0032a6130d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/693f797fc10055e524bd34d5eaede69c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/6c2faf3ad56464a4d5d2fedba2297516.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/6db5fa638d76ba2229028c9f11b55d46.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/79f7d96fc8dd3d24fe58cc02548aa85d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/7d35374a2bfbf54722f15b30c2b3b452.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/80fad943c40e9b7c5b786909fc7b9da8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/8104d7e2947bb34cfe4e55f433bfe0f3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/850257b14a46f4352a0f0ba3f7a7ea4a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/85cbab510c0d2ccc96048fe1fc0fc773.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/8a493a2ca85ab3b0e39c1de1daf4c300.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/8e8773e186d539098490f11f40b5f8a1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/989da99effd9aa584d943dcb49bf11ce.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/9ec38735210c14d8f4cf13320592f176.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/a0c5587db93c647f51c5c2dfa258a26b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/ad610368e82eb7540686116c89813c19.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/c8f23f9d60e1699613e7da7b01921b71.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/ca25f1e5739c2ac1c77177719184568f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/d6f4bac89121f0cb898af644fe163760.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/d928dd5293574786b2629e0fa92ca598.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/d9dd1cd4a86ffb6822f50a4abefe62a9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/da71b721d0c048bd828896456942b561.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/db4b8ab98d70008301bdea16785f76d7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/e26f522a22501a1d56c41e2089f3cfe2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/ea64b85e7f43ffa86d10d547dbc376c2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/f23c1b736aac3ed5dda18e7755fa4d8c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/f3042596f8d42790fe3427d1724cab08.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/f5547257d430b4e5583b3dbdc84ae1e5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/f846c93c873c42d4ee78b539dc0b75b9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/f95637908f86607a7f52fee8873f78a5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/fa77ceead1938eb2b7402fff96201b56.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sina.com.cn/fc0e00f8029e52262d21576ce7c7cbc9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc0.cn/559d3149c344ffd162a6b5397e97c9b0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiwenqi/VisualHuntTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiwenqi/VisualHuntTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiwenqi/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ctbri/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiwenqi/CcoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ctbri/CcoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiwenqi/GithubRepoPageProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ctbri/GithubRepoPageProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiwenqi/MyProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ctbri/MyProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiwenqi/SinaBlogProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ctbri/SinaBlogProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiwenqi/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ctbri/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiwenqi/VisualHuntTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ctbri/VisualHuntTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiwenqi/WebmagicUtilP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ctbri/WebmagicUtilP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/resource/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/resource/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiwenqi/VisualHuntTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiwenqi/VisualHuntTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/xiwenqi/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ctbri/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiwenqi/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiwenqi/CcoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiwenqi/GithubRepoPageProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiwenqi/MyProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiwenqi/SinaBlogProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiwenqi/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiwenqi/VisualHuntTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiwenqi/WebmagicUtilP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/xiwenqi/AppTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -93,17 +58,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://D:/apache-maven-3.3.9/repository/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/Spider.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6536">
+            <state>
               <caret line="386" column="34" selection-start-line="386" selection-start-column="34" selection-end-line="386" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiwenqi/VisualHuntTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ctbri/VisualHuntTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            <state relative-caret-position="752">
+              <caret line="60" column="25" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3149#3150#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ctbri/util/JsonUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,14 +99,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiwenqi/WebmagicUtilP.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ctbri/pojo/UserInfoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1007">
-              <caret line="53" column="51" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
+            <state relative-caret-position="152">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1471#1472#0" expanded="true" />
-                <element signature="e#1498#1499#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ctbri/pojo/PictureInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
+                <element signature="e#683#684#0" expanded="true" />
+                <element signature="e#731#732#0" expanded="true" />
+                <element signature="e#765#766#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -152,8 +174,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/xiwenqi/SinaBlogProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiwenqi/CcoTest.java" />
         <option value="$PROJECT_DIR$/src/resource/log4j.properties" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiwenqi/VisualHuntTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ctbri/VisualHuntTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ctbri/util/DateTimeUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ctbri/pojo/user.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ctbri/pojo/PictureInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ctbri/util/JsonUtil.java" />
       </list>
     </option>
   </component>
@@ -193,7 +220,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-45" />
     <option name="y" value="40" />
     <option name="width" value="1184" />
@@ -246,7 +273,27 @@
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="xiwenqi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ctbri" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="spiderModule" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="webmagic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ctbri" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pojo" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="spiderModule" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="webmagic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ctbri" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="util" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="spiderModule" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -265,7 +312,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/xiwenqi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/ctbri/util" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -276,6 +323,7 @@
       <recent name="com.xiwenqi" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ctbri\spiderModule\src\main\java\com\ctbri\util" />
       <recent name="D:\ctbri\spiderModule\src\main\java\com\xiwenqi" />
       <recent name="D:\ideaproject\webmagic\src\main\java\com\xiwenqi" />
     </key>
@@ -292,13 +340,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VisualHuntTest">
+  <component name="RunManager" selected="Application.JsonUtil">
     <configuration name="CcoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiwenqi.CcoTest" />
+      <option name="MAIN_CLASS_NAME" value="com.ctbri.CcoTest" />
       <module name="webmagic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiwenqi.*" />
+          <option name="PATTERN" value="com.ctbri.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ctbri.util.JsonUtil" />
+      <module name="webmagic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctbri.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,24 +368,11 @@
       </method>
     </configuration>
     <configuration name="SinaBlogProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiwenqi.SinaBlogProcessor" />
+      <option name="MAIN_CLASS_NAME" value="com.ctbri.SinaBlogProcessor" />
       <module name="webmagic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiwenqi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiwenqi.Test2" />
-      <module name="webmagic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xiwenqi.*" />
+          <option name="PATTERN" value="com.ctbri.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,11 +381,11 @@
       </method>
     </configuration>
     <configuration name="VisualHuntTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiwenqi.VisualHuntTest" />
+      <option name="MAIN_CLASS_NAME" value="com.ctbri.VisualHuntTest" />
       <module name="webmagic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiwenqi.*" />
+          <option name="PATTERN" value="com.ctbri.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,11 +394,11 @@
       </method>
     </configuration>
     <configuration name="WebmagicUtilP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiwenqi.WebmagicUtilP" />
+      <option name="MAIN_CLASS_NAME" value="com.ctbri.WebmagicUtilP" />
       <module name="webmagic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiwenqi.*" />
+          <option name="PATTERN" value="com.ctbri.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -360,11 +408,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JsonUtil" />
         <item itemvalue="Application.VisualHuntTest" />
         <item itemvalue="Application.CcoTest" />
         <item itemvalue="Application.SinaBlogProcessor" />
         <item itemvalue="Application.WebmagicUtilP" />
-        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -383,17 +431,27 @@
       <workItem from="1561338496900" duration="18107000" />
       <workItem from="1561425825798" duration="10493000" />
       <workItem from="1561441499433" duration="11387000" />
-      <workItem from="1561598848409" duration="1650000" />
+      <workItem from="1561598848409" duration="10652000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55616000" />
+    <option name="totallyTimeSpent" value="64618000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.74050635" visible="true" weight="0.19839142" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.74050635" visible="true" weight="0.2546917" />
       <window_info id="Structure" order="1" sideWeight="0.25949368" side_tool="true" weight="0.19571045" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -402,22 +460,22 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32577905" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32577905" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
-      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Problems" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.14745308" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.16621985" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
@@ -478,7 +536,7 @@
     <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/downloader/HttpClientDownloader.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiwenqi/HttpClientGenerator.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/downloader/HttpClientGenerator.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiwenqi/MyProcessor.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ctbri/MyProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
           <caret line="39" column="78" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="78" />
@@ -488,7 +546,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiwenqi/GithubRepoPageProcessor.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ctbri/GithubRepoPageProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
@@ -501,7 +559,7 @@
     <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/Page.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/processor/PageProcessor.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/Spider.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiwenqi/Test2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ctbri/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="48" column="63" selection-start-line="48" selection-start-column="63" selection-end-line="48" selection-end-column="63" />
@@ -519,7 +577,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiwenqi/SinaBlogProcessor.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ctbri/SinaBlogProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
           <caret line="35" column="95" selection-start-line="35" selection-start-column="68" selection-end-line="35" selection-end-column="95" />
@@ -529,7 +587,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiwenqi/CcoTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ctbri/CcoTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
@@ -542,13 +600,6 @@
     <entry file="file://$USER_HOME$/Desktop/Spider.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1083" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resource/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-        </state>
       </provider>
     </entry>
     <entry file="jar://D:/apache-maven-3.3.9/repository/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/selector/Html.class">
@@ -577,22 +628,15 @@
     </entry>
     <entry file="jar://D:/apache-maven-3.3.9/repository/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/Spider.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6536">
+        <state>
           <caret line="386" column="34" selection-start-line="386" selection-start-column="34" selection-end-line="386" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ctbri/WebmagicUtilP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiwenqi/WebmagicUtilP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1007">
-          <caret line="53" column="51" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
+        <state relative-caret-position="988">
+          <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1471#1472#0" expanded="true" />
@@ -601,10 +645,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiwenqi/VisualHuntTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        <state relative-caret-position="63">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ctbri/VisualHuntTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="60" column="25" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3149#3150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ctbri/pojo/UserInfoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resource/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ctbri/util/DateTimeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ctbri/pojo/PictureInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ctbri/util/JsonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

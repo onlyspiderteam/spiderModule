@@ -1,4 +1,4 @@
-package com.xiwenqi;
+package com.ctbri;
 
 import us.codecraft.webmagic.Page;
 import us.codecraft.webmagic.Site;
@@ -54,6 +54,12 @@ public class VisualHuntTest implements PageProcessor {
                 s.append(" "+ "'"+ set.xpath("//a/text()").get()+"'");
             }
             page.putField("Tags",s);
+
+            List<Selectable> downLoadSekectable = page.getHtml().xpath("//*[@id=\"download\"]/div[1]/*").nodes();
+            int num = 0;
+            for(Selectable selectable : downLoadSekectable){
+                page.putField("DownloadInfo"+(++num),selectable.xpath("//input/@downloadurl").toString()+selectable.xpath("//span/text()").toString());
+            }
         }
         // System.out.println(page.getHtml());
 
